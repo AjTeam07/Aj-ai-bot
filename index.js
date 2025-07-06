@@ -2,7 +2,7 @@ import login from "fca-priyansh";
 import fs from "fs";
 import express from "express";
 
-const OWNER_UIDS = ["100041949485196", "100024330052795"];
+const OWNER_UIDS = ["61572942397898", "61572942397898"];
 let rkbInterval = null;
 let stopRequested = false;
 const lockedGroupNames = {};
